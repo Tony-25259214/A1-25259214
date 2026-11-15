@@ -1,0 +1,6 @@
+/out/
+*.class
+/.vscode/
+Thumbs.db
+.DS_Store
+/docs/
