@@ -42,4 +42,4 @@ java -cp out AssignmentOne
 - [x] Cancellation by ID plus slot, and by contact number; warnings on failure
 - [x] Main demonstration covering normal and error cases
 - [ ] WakaTime activity report
-- [ ] Short demonstration video link added to the comments
+- [x] Short demonstration video link added to the comments
